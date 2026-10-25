@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WD-GOFiles</string>
+    <string name="storage_internal">Armazenamento Principal</string>
+    <string name="android_data_shortcut">Pasta Android/data</string>
+    <string name="android_obb_shortcut">Pasta Android/obb</string>
+    <string name="system_files_shortcut">Arquivos do Sistema (AOSP)</string>
+    <string name="wireless_transfer">Transferência Wi-Fi / PC</string>
+    <string name="categories">Categorias</string>
+    <string name="downloads">Downloads</string>
+    <string name="images">Imagens</string>
+    <string name="videos">Vídeos</string>
+    <string name="audio">Áudios</string>
+    <string name="documents">Documentos</string>
+    <string name="apks">Aplicativos / APKs</string>
+    <string name="archives">Arquivos ZIP</string>
+    <string name="storage_analysis">Análise de Espaço</string>
+    <string name="permission_required">Permissão de Acesso aos Arquivos</string>
+    <string name="permission_desc">Para gerenciar arquivos e abrir pastas do sistema, o WD-GOFiles necessita de acesso ao armazenamento.</string>
+    <string name="grant_permission">Conceder Permissão</string>
+</resources>

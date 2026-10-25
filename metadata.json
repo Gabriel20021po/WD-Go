@@ -1,0 +1,6 @@
+{
+  "name": "WD-GOFiles",
+  "description": "Gerenciador de arquivos inspirado no FolderV com acesso a pastas do sistema, atalhos de armazenamento, transferências sem fio e explorador avançado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
